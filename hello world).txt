@@ -1,5 +1,5 @@
-print ("hello world!");
-print ("hi world ale");
-print ("world");
-print ("hello woHa-Ha!");
-print ("hello Kou-Kou!");
+print ("hello world;!");
+print ("hi world ale;");
+print ("world;");
+print ("hello woHa-Ha;!");
+print ("hello Kou-Kou;!");
